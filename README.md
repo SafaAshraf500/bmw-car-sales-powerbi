@@ -2,6 +2,8 @@ BMW Car Sales Analytics Dashboard
 
 An interactive three-page Power BI report that analyses 50,000 BMW sales records (2010 to 2024) by model, fuel type, region, and sales class.
 
+![Overview](Overview.png)
+
 Report pages
 Page	Question it answers
 Overview	How much did we sell, and how is revenue changing?
